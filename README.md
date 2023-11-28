@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CNNs and SVMs**
 
-- 💬 Ask me about **Neurotech, AWS, Machine Learning**
+- 💬 Ask me about **Neurotech, LLMs, Machine Learning**
 
 - 📫 How to reach me **npp8@cornell.edu**
 
