@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nathan Palamuttam</h1>
-<h3 align="center">Driven computer science student who is also minoring in BME and interested in the intersection between biology and computer science (i.e. neurotech and biotech). Open to internships for the 2024 season.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
 
-- 🔭 I’m currently working on **Vibrotactile Feedback app**
+- 🔭 I’m currently working on **Diffusion Model Project**
 
-- 🌱 I’m currently learning **CNNs and SVMs**
+- 🌱 I’m currently learning **OS and Deep Learning**
 
-- 💬 Ask me about **Neurotech, LLMs, Machine Learning**
+- 💬 Ask me about **Hardware, LLMs, Machine Learning**
 
 - 📫 How to reach me **npp8@cornell.edu**
 
