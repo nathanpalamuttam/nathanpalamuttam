@@ -3,9 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
 
-- 🔭 I’m currently working on **Diffusion Model Project**
-
-- 🌱 I’m currently learning **OS and Deep Learning**
+- 🌱 I’m currently learning **RL and Kernel Optimization**
 
 - 💬 Ask me about **Hardware, LLMs, Machine Learning**
 
